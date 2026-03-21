@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Devrede Trade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 40px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Privacy Policy for Devrede Trade</h1>
+    <p><strong>Effective Date:</strong> 16 February 2026</p>
+    <p><strong>Developer:</strong> Vhutshilo Charles Matshipa</p>
+    <p><strong>App Name:</strong> Devrede Trade</p>
+
+    <h2>1. Introduction</h2>
+    <p>
+        Devrede Trade is a marketplace application that allows users to add and view products.
+        We respect your privacy and are committed to protecting your information.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+    <p>Devrede Trade may collect the following information:</p>
+    <ul>
+        <li>Email and password (for authentication)</li>
+        <li>Product name</li>
+        <li>Product description</li>
+        <li>Product price</li>
+        <li>Product images (if uploaded)</li>
+        <li>Basic technical information such as device type and app usage (via Firebase services)</li>
+    </ul>
+
+    <p><strong>We do NOT collect:</strong></p>
+    <ul>
+        <li>Banking details</li>
+        <li>ID numbers</li>
+        <li>Personal chat messages</li>
+    </ul>
+
+    <h2>3. How We Use Information</h2>
+    <ul>
+        <li>Display products inside the app</li>
+        <li>Improve app performance</li>
+        <li>Maintain app functionality</li>
+        <li>Store product listings securely using Firebase services</li>
+    </ul>
+
+    <h2>4. Third-Party Services</h2>
+    <p>Devrede Trade uses:</p>
+    <ul>
+        <li>Google Firebase (Database & Storage)</li>
+        <li>Google Play Services</li>
+    </ul>
+    <p>
+        These services may collect limited technical information according to their own privacy policies.
+    </p>
+
+    <h2>5. Data Security</h2>
+    <p>
+        We use industry-standard security measures provided by Firebase and Google services to protect stored data.
+    </p>
+
+    <h2>6. Children’s Privacy</h2>
+    <p>
+        Devrede Trade is not directed at children under 13 years old. We do not knowingly collect personal information from children.
+    </p>
+
+    <h2>7. Changes to This Policy</h2>
+    <p>
+        We may update this Privacy Policy from time to time. Updates will be reflected on this page.
+    </p>
+
+    <h2>8. Contact Us</h2>
+    <p>
+        If you have any questions, you can contact:
+    </p>
+    <p><strong>Email:</strong> chalsontech27@gmail.com</p>
+</div>
+
+</body>
+</html>
